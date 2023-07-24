@@ -1,9 +1,17 @@
 /*  your css code here. If applicable */
-.container{
+body{
 	background-color:#f5f5f5;
 }
-.t1, .t2{
+.testimonial1{
 	background-color:white;
-	padding:10px;
+	padding:20px;
+	position:relative;
 	border:1px solid grey;
+	margin:10px
+}
+.name{
+	position:absolute;
+	bottom:10px;
+	right:10px;
+	
 }
