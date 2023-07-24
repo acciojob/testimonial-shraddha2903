@@ -1,17 +1,15 @@
 /*  your css code here. If applicable */
-body{
+.container{
 	background-color:#f5f5f5;
 }
 .testimonial1{
 	background-color:white;
 	padding:20px;
-	position:relative;
 	border:1px solid grey;
 	margin:10px
 }
 .name{
-	position:absolute;
-	bottom:10px;
-	right:10px;
+	text-align:right;
+	font-style:italic;
 	
 }
